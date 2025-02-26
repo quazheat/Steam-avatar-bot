@@ -9,3 +9,9 @@ To use this bot, you need to rename all the .jpg files to numbers from 1.jpg to 
 The bot can also be run with newly created, not-yet-setup Steam accounts, so you can still use the avatar!
 
 Cookies can be found on your Steam page by opening the browser > pressing F12 > navigating to the *Application* tab > then clicking Cookies.
+
+
+#
+If you choose to use the VBS script, make sure you have enabled scripts on your system by running the following command:
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
