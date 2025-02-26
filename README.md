@@ -15,3 +15,6 @@ Cookies can be found on your Steam page by opening the browser > pressing F12 > 
 If you choose to use the VBS script, make sure you have enabled scripts on your system by running the following command:
 
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Inside of RunBot.ps1 you need to change $scriptPath = ""
+also path need to be changed inside VBS (if you want to use it)
